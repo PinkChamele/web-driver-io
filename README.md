@@ -19,4 +19,3 @@ The user needs to sign up using a password and an email.
 ## Built with
 
 * [Node 16.3.0](https://nodejs.org/) - Server-side environment for ECMAscript
-* [Nest 8.0.2](https://nestjs.com/) - A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
